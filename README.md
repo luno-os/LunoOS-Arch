@@ -11,7 +11,7 @@
     - Clone the repository
     
     - Build the ISO with the following command:
-        `mkarchiso -v -o */path/to/output_dir* */path/to/repository/releng/`
+        `mkarchiso -v -o /path/to/output_dir /path/to/repository/releng/`
 
     - *Bonus*
         You're able to edit the ISO to your liking. Who knows? Maybe you think we put too much bloat into it. **No guaranty provided though**
