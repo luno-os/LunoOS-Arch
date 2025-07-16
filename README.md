@@ -14,7 +14,7 @@
         `mkarchiso -v -o /path/to/output_dir /path/to/repository/releng/`
 
     - *Bonus*
-        You're able to edit the ISO to your liking. Who knows? Maybe you think we put too much bloat into it. **No guaranty provided though**
+        - You're able to edit the ISO to your liking. Who knows? Maybe you think we put too much bloat into it. **No guaranty provided though**
 
 - If you don't have an Arch Linux install:
     - Just download the ISO from the "releases" section
