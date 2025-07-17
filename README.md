@@ -25,3 +25,7 @@
     - `nvidia` and `nvidia-open`
     - `mesa` and `lib32-mesa`
     - `vulkan-intel` and `lib32-vulkan-intel`
+
+# Still to do:
+
+- Troubleshoot autologin for sddm/plasma

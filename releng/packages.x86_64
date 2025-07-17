@@ -129,5 +129,6 @@ zsh
 
 # Desktop Environment
 
+sddm
 plasma
 kde-applications
