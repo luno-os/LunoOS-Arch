@@ -18,3 +18,10 @@
 
 - If you don't have an Arch Linux install:
     - Just download the ISO from the "releases" section
+
+# Latest changes (17.07.2025):
+
+- Added Nvidia and Intel drivers for live env:
+    - `nvidia` and `nvidia-open`
+    - `mesa` and `lib32-mesa`
+    - `vulkan-intel` and `lib32-vulkan-intel`
