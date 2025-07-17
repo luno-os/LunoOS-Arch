@@ -127,4 +127,7 @@ xfsprogs
 xl2tpd
 zsh
 
-# Additional Software
+# Desktop Environment
+
+plasma
+kde-applications
