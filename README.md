@@ -1,4 +1,4 @@
-# LunoOS-Arch
+# LunoOS
 
 **This OS is still under construction!**
 
